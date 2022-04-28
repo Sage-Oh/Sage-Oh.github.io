@@ -3,11 +3,11 @@ layout: single
 title: 자바스크립트 es6문법
 categories: React
 tag: [react, js]
+toc: true
 ---
 
 # 자바스크립트 es6문법
 
-####
 ```js
 // 1. object shorthand assignment 
 let name = "noona";

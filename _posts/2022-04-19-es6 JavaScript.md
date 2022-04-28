@@ -4,6 +4,9 @@ title: 자바스크립트 es6문법
 categories: React
 tag: [react, js]
 toc: true
+author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 # 자바스크립트 es6문법

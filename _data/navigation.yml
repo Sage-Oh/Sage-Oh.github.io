@@ -8,20 +8,20 @@ main:
     url: /search/
 
 docs:
-  - title: "대목차1"
+  - title: "목차"
     children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
         url: /tags/
-
-  - title: "대목차2"
+  - title: "목차"
     children:
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/
-
+      - title: "Machine_Learning"
+        url: https://sage-oh.github.io/categories/#machine-learning
+      - title: "React"
+        url: https://sage-oh.github.io/categories/#react
+      - title: "Vue"
+        url: https://sage-oh.github.io/categories/#vue
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/

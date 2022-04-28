@@ -6,7 +6,7 @@ title: 자바스크립트 es6문법
 # 자바스크립트 es6문법
 
 ####
-```JavaScript
+```js
 // 1. object shorthand assignment
 let name = "noona";
 let age = 17;
@@ -18,9 +18,11 @@ let person={
 
 console.log(person);
 ```
+
+
 근데 이것을
 
-```JavaScript
+```js
 //key와 value의 값이 같을 경우
 
 let name = "noona";
@@ -36,7 +38,7 @@ console.log(person);
 
 이렇게 생략이 가능하다
 
-```JavaScript
+```js
 //2.Destructuring
 
 let person ={

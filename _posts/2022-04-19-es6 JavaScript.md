@@ -1,8 +1,8 @@
 ---
 layout: single
 title: 자바스크립트 es6문법
-categories: React
-tag: [react, js]
+categories: JavaScript
+tag: javascript
 toc: true
 author_profile: false
 sidebar:
